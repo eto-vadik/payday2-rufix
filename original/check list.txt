@@ -1,0 +1,12 @@
++ переведено
+= не требуется перевод
+blackmarket + 
+debug +
+heist +
+hud + 
+ingame_achievements.russian
+menu +
+savefile =
+subtitles +
+systemmenu +
+vr =

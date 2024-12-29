@@ -1,0 +1,9 @@
+{
+	"debug_int_trai_equipment_sheriff_star" : "You need the Sheriff Star",
+	"debug_interact_press_open_trunk" : "Press $BTN_INTERACT; to Open Trunk",
+	"debug_damage_multiplier" : "Damage Multiplier",
+	"debug_interact_equipment_usb_stick" : "You need a USB stick",
+	"debug_select_secondary" : "Select Secondary Weapon",
+	"debug_interact_long_pour_gas" : "Hold $BTN_INTERACT; to pour Gasoline",
+	"debug_select_primary" : "Select Primary Weapon",
+}
