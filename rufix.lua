@@ -1869,7 +1869,7 @@ Hooks:Add("LocalizationManagerPostInit", "rufix", function(loc)
 		menu_infamy_stinger_025_name = "Замок Склад",
 		menu_jukebox_track_pth_08 = "Волна преступности",
 		menu_content_chico = "Набор персонажей \"Лицо со шрамом\"",
-		menu_new_perk_dialog_text = "Это стоит $point_cost; очки перков для достижения $perk_tier; из $max_tier; карты разблокированы. Хотите продолжить?",
+		menu_new_perk_dialog_text = "Это стоит $point_cost; очков перков для получения $perk_tier; карты из $max_tier;. Хотите продолжить?",
 		menu_jukebox_track_80 = "В дороге",
 		menu_cg22_community_2_reward = "Маленький грабитель Санты - костюм Духа праздника",
 		menu_steam_market_content_surf_01 = "Бодхи",
